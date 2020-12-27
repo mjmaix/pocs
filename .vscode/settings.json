@@ -1,7 +1,8 @@
 {
     "eslint.workingDirectories": [
         "expo-main",
-        "nest-micro/auth"
+        "nest-micro/auth",
+        "nest-micro/user",
     ],
     "editor.formatOnSave": true
 }
